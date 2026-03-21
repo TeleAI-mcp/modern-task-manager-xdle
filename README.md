@@ -1,2 +1,3 @@
-# modern-task-manager-xdle
-Automated issue comment bot repository
+# Modern Task Manager Xdle
+
+Automated issue comment bot repository.
